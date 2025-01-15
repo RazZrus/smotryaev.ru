@@ -37,7 +37,7 @@ i18next
 				translation: {
 					heading: 'Hello!\nMy name is\nDmitry Smotryaev',
 					firstParagraph: "I'm a frontend developer based in Moscow, currently navigating the exciting world of web development while pursuing my education at MISIS University.",
-					secondParagraph: "With a passion for clean and efficient code, I specialize in a versatile tech stack. You can look at my pet-projects on my {{githubLink}}. Let's Connect! Feel free to reach out and connect with me on {{vkLink}}, {{telegramLink}}. I'm always up for interesting collaborations and job experience. Let's build the future of the web together!",
+					secondParagraph: "With a passion for clean and efficient code, I specialize in a versatile tech stack. You can look at my pet-projects on my {{githubLink}}. Currently working in MTS Bank. Let's Connect! Feel free to reach out and connect with me on {{vkLink}}, {{telegramLink}}. I'm always up for interesting collaborations and job experience. Let's build the future of the web together!",
 					skills: 'My skills',
 					quote: 'remember: code is poetry, and every pixel tells a story ✨',
 				},
@@ -46,7 +46,7 @@ i18next
 				translation: {
 					heading: 'Привет!\nМеня зовут\nДмитрий Смотряев',
 					firstParagraph: 'Я фронтенд-разработчик проживающий в Москве. Изучаю захватывающий мир веб-разработки и учусь в университете МИСИС',
-					secondParagraph: 'Со страстью к чистому и эффективному коду, я пишу на универсальном стеке. Вы можете посмотреть мои проекты на {{githubLink}}. Если хотите связаться со мной, то не стесняйтесь, пишите в {{vkLink}}, {{telegramLink}}. Я всегда за интересные коллаборации и за опыт в работе. Построим будущее веба вместе!',
+					secondParagraph: 'Со страстью к чистому и эффективному коду, я пишу на универсальном стеке. Вы можете посмотреть мои проекты на {{githubLink}}. В данный момент работаю в МТС Банке. Если хотите связаться со мной, то не стесняйтесь, пишите в {{vkLink}}, {{telegramLink}}. Я всегда за интересные коллаборации и за опыт в работе. Построим будущее веба вместе!',
 					skills: 'Мои навыки',
 					quote: 'и запомните: код это поэзия, и каждый пиксель рассказывает историю ✨',
 				},
